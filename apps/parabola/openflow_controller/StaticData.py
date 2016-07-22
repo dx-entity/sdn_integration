@@ -1,0 +1,5 @@
+REST_ALL='all'
+REST_SWITCHID='switch_id'
+REST_STATUS_ENABLE = 'enable'
+REST_STATUS_DISABLE = 'disable'
+REST_STATUS = 'status'

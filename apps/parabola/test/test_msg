@@ -1,0 +1,18 @@
+{
+   "caseid" : "20160629111913854857",
+   "name" : "DEPLOY",
+   "server_ip" : "172.16.21.144",
+   "taskid" : 3788,
+   "define" : {
+       "tfile" : "CaseDefinitions/20160629111913854857/Topo/t1929_treated.xml"
+   },
+   "type" : "M"
+}
+
+{
+   "caseid" : "20160629111913854857",
+   "name" : "CLOSE",
+   "server_ip" : "172.16.21.144",
+   "taskid" : 3790,
+   "type" : "M"
+}

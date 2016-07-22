@@ -1,0 +1,14 @@
+2016-07-15 14:15:54,392 45, ERROR,exception
+Traceback (most recent call last):
+  File "/root/python_pro/sdn_integration/apps/parabola/test/testExceptions.py", line 36, in _handler
+    func(*args, **kwargs)
+  File "/root/python_pro/sdn_integration/apps/parabola/test/testExceptions.py", line 52, in kk
+    raise CaseException("has no such case registered")
+CaseException: (('has no such case registered',), {})
+2016-07-15 15:06:44,644 45, ERROR,exception
+Traceback (most recent call last):
+  File "/root/python_pro/sdn_integration/apps/parabola/test/testExceptions.py", line 36, in _handler
+    func(*args, **kwargs)
+  File "/root/python_pro/sdn_integration/apps/parabola/test/testExceptions.py", line 52, in kk
+    raise CaseException("has no such case registered")
+CaseException: (('has no such case registered',), {})
